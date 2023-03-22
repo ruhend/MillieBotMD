@@ -1,0 +1,71 @@
+Install Dulu Semua Yang Di Perluin
+
+Untuk Install modules Kalo Di Termux Bisa yarn atau mungkin bisa npm install 
+Tapi Udah Gw Fix Install Module nya tinggal npm install atau yarn kalian coba ajh
+
+Usahain Gunakan Server Yang Penyimpanan dan Ram Gede Agar Tenang :v
+Silahkan Fork Biar Kalo Ada Update Langsung Klik Singkron
+Mau Tanya Kesulitan?
+Grup Diskusi atau bot Kalo link ga kereset yaa
+
+https://chat.whatsapp.com/Fo83w8WF4htIMcJ9kaIDnP
+
+Eror Atau Menu nya Kurang Tambahin Sndri Ajh Atau Fix Sndri Support Scrap Atau Api 
+Kalo Gw Lagi ga mager gw upload atau tambahin fitur yang baru
+
+Ubah Nomor Owner di src setting.json
+Mulai  npm start  atau  node index.js
+
+English:
+First install everything you need
+
+ Like the other webp imagegaick blablabalab nodes, they're not stupid, you know
+
+ To install it in Termux, you can use yarn or maybe npm
+
+ I don't know, because when I install modules, I always go through the website server
+
+ But I've fixed the Install Module, all that's left is npm install or just try your Yarn
+
+ Try to use a server with large storage and RAM to keep calm :v
+
+
+ Discussion group or bot If the link doesn't reset, OK?
+
+ https://chat.whatsapp.com/Fo83w8WF4htIMcJ9kaIDnP
+
+ Error or the menu is lacking, add yourself or fix yourself while studying !!
+ If I'm not lazy, I'll upload or add new features
+
+
+ +++++Remember peoples who are do bots, either creators or others++++
+
+ -We Can't Drop Each Other,
+
+ -Must support each other,
+
+ -Don't Feel Yourself Great,
+
+ -Don't pretend to just know or fall,
+
+ But High Heart / Arogant with Who Previously Gave You or Suggestions or Teaches and So on,
+
+ -If you come from typing or bad words, then you say ah like that, won't you feel bad?  why are you alone when you type or talk why do you look like the devil is arrogant or pretentious!
+
+ -Then that person can no longer respect you, so wanting to respond again is too lazy, that's the nature of it,
+
+
+ Instagram.com/Ruli_Henderson
+ Kebangsaan Indonesia x Philippines
+ Bahasa Yang Di Kuasai 
+ Indonesia
+ Tagalog
+ English
+ Malay/Malay
+ Sunda
+
+ Cheers Ruli Henderson
+
+Start  npm start  or  node index.js
+
+
