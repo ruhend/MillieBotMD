@@ -12,7 +12,7 @@ saya juga ingin ganti button ,hidrated atau seksion nya jadi
 balasan reply biasa ajh,kalo kalian bisa silahkan ubah ajh yang bagian button ,list pesan
 atau hydrated (Template)  di ruhend.js nya jadi pesan biasa atau reply,
 
-
+Semua Command Menunya dan Fitur Berfungsi Kok
 
 Install Dulu Semua Yang Di Perluin
 
