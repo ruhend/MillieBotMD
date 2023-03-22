@@ -1,3 +1,17 @@
+Menunya Ga Muncul atau lainnya? 
+Iyah Karena aplikasi Wa kalian Versi Terbaru Coba Kalian
+Downgrade Ke Versi 2.23.1.76
+Soalnya dari  Baileys Nya  semenjak pembaruan wa nya 
+tombol button,list message atau sections,dan hydrated(template) jadi ga muncul,
+
+jd untuk sementara pake whatsapp versi lama dulu,
+Hanya Menunggu Respon Dari pemilik baileysnya itu sndri adiwajshing ,
+kelanjutan bagaimananya dia menangani nya.
+
+saya juga ingin ganti button ,hidrated atau seksion nya jadi 
+balasan reply biasa ajh,kalo kalian bisa silahkan ubah ajh yang bagian button ,list pesan
+atau hydrated (Template)  nya jadi pesan biasa atau reply
+
 Install Dulu Semua Yang Di Perluin
 
 Untuk Install modules Kalo Di Termux Bisa yarn atau mungkin bisa npm install 
