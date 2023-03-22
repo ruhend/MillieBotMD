@@ -10,7 +10,9 @@ kelanjutan bagaimananya dia menangani nya.
 
 saya juga ingin ganti button ,hidrated atau seksion nya jadi 
 balasan reply biasa ajh,kalo kalian bisa silahkan ubah ajh yang bagian button ,list pesan
-atau hydrated (Template)  nya jadi pesan biasa atau reply
+atau hydrated (Template)  di ruhend.js nya jadi pesan biasa atau reply,
+
+
 
 Install Dulu Semua Yang Di Perluin
 
